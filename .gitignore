@@ -1,0 +1,15 @@
+# Mengabaikan Virtual Environment
+cysec_env/
+env/
+venv/
+
+# Mengabaikan Cache Python
+__pycache__/
+*.pyc
+
+# Mengabaikan file hasil enkripsi Ghost Cryptor (Jangan sampai data pribadimu ter-upload!)
+*.ghost
+
+# Mengabaikan file sistem OS
+.DS_Store
+Thumbs.db
